@@ -100,6 +100,7 @@ EXCEPTION
 END;
 $$;
 
+-- To run the procedure
 CALL bronze.load_bronze();
 
 
